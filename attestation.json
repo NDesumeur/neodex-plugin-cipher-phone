@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.cipher",
+  "repo": "NDesumeur/neodex-plugin-cipher-phone",
+  "version": "1.0.0",
+  "sha256": "50dbfdfae6275e5b3ce707792c99a864f69b6ce631f1c70db3ac227429be26ed",
+  "approvedAt": "2026-11-17T18:40:02.736Z",
+  "neobase": ">=4.0.0",
+  "signature": "7ortPFTnaNHQUGBtmSk83ZLRrh/LltQvI249TJ+48SOAECyaCEQLt1A6YA+PGMOqVyIe953P9EkT27ZSZyODDw=="
+}
